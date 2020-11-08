@@ -73,8 +73,6 @@ function autoAdvanceSlides(){
 }
 
 // Google Maps (developers.google.com)
-// personal API key "AIzaSyBwB-FmLmnS5rUFMesY_ndxOxaVsOtA_E4"
-// restrict key access to avoid key theft (quota usage)
 function initMap() {
         var myCenter = {lat: 50.847095, lng: 3.452851};
 
