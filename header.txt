@@ -28,6 +28,8 @@ document.write('
         onclick="myNavToggle()">Kinesitherapie &amp; Revalidatie</a>
       <a class="w3-bar-item w3-button w3-border-bottom w3-border-light-grey" href="sporter.html"
         onclick="myNavToggle()">Sport &amp; Beweging</a>
+      <a class="w3-bar-item w3-button w3-border-bottom w3-border-light-grey" href="lifestyle.html"
+        onclick="myNavToggle()">Lifestyle</a>
       <a class="w3-bar-item w3-button w3-border-bottom w3-border-light-grey" href="tarieven.html"
         onclick="myNavToggle()">Tarieven</a>
       <a class="w3-bar-item w3-button w3-border-bottom w3-border-light-grey" href="balanz.html#references"
