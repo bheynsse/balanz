@@ -13,7 +13,7 @@ document.write('
 
     <!-- Social media icons (sorted right to left) -->
     <a class="w3-bar-item w3-button w3-large w3-right"
-      href="https://www.linkedin.com/in/annelies-vandewalle-130b643a/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+      href="https://www.linkedin.com/in/anneliesvandewalle/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
     <a class="w3-bar-item w3-button w3-large w3-right"
       href="https://instagram.com/balanz.be" target="_blank"><i class="fa fa-instagram"></i></a>
     <a class="w3-bar-item w3-button w3-large w3-right"
@@ -41,7 +41,7 @@ document.write('
           onclick="myNavToggle()"><i class="fa fa-facebook-square"></i></a>
         <a class="w3-button" href="https://instagram.com/balanz.be" target="_blank"
           onclick="myNavToggle()"><i class="fa fa-instagram"></i></a>
-		    <a class="w3-button" href="https://www.linkedin.com/in/annelies-vandewalle-130b643a/" target="_blank"
+		    <a class="w3-button" href="https://www.linkedin.com/in/anneliesvandewalle/" target="_blank"
           onclick="myNavToggle()"><i class="fa fa-linkedin-square"></i></a>
       </div>
   </div>
