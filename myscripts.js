@@ -19,7 +19,7 @@ function myNavToggle() {
 }
 
 // Go to top of page button
-
+/*
 //Get the button:
 var myToTopButton = document.getElementById("btntop");
 // When the user scrolls down 20px from the top of the document, show the button
@@ -31,6 +31,7 @@ function scrollFunction() {
     myToTopButton.style.display = "none";
   }
 }
+*/
 // When the user clicks on the button, scroll to the top of the document
 function buttonTop() {
   document.body.scrollTop = 0; // For Safari
