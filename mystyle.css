@@ -26,6 +26,14 @@ a.anchor-xl {
  -webkit-transform: translate3d(0,0,0);
 }
 
+/* Limit the width on wide screens */
+@media screen and (min-width: 992px) {
+  .alert {
+    width: 50%;
+    left: 25%;
+  }
+}
+
 /* The close button */
 .closebtn {
  margin-left: 5px;
