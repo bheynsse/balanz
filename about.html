@@ -443,9 +443,15 @@ willen klaarstaan voor jou.</p>
 <!-- change to display:none default if js is working! -->
 <button class="w3-hide-large w3-button w3-circle w3-card-4 w3-hover-white w3-white w3-text-lime w3-border w3-border-lime"
     onclick="buttonTop()" id="btntop"
-    style="text-decoration:none;display:block;position:fixed;bottom:20px;right:20px;z-index:99;">
+    style="text-decoration:none;display:none;position:fixed;bottom:20px;right:20px;z-index:99;">
     <i class="fa fa-angle-up w3-xlarge"></i>
 </button>
+
+<script>
+  // activate the to-top button scroll function
+  var myToTopButton = document.getElementById("btntop");
+  window.onscroll = function() {scrollFunction()};
+</script>
 
 <!-- Import footer -->
 <script language="javascript" type="text/javascript"
