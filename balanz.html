@@ -14,6 +14,7 @@
  <!-- Use W3.CSS styling -->
  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
  <!-- Use Font Awesome icons -->
+ <!-- https://fontawesome.com/v4/examples/ -->
  <link rel="stylesheet"
    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
  <!-- Import custom css -->
@@ -31,7 +32,7 @@
   src="headerflat.js"></script>
 
 <!-- Hideable header with info message if applicable -->
-<div class="alert w3-lime w3-round-large">
+<!-- <div class="alert w3-lime w3-round-large">
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
   <div style="max-width: 500px;margin: 0 auto;">
     <p>Schrijf je nu in voor onze nieuwe afslank&shy;battle!</p>
@@ -39,7 +40,7 @@
       style="float:left;">Meer weten</a><a href="#contact" class="w3-button w3-dark-gray w3-round-xxlarge"
       style="float:right;">Inschrijven</a>
   </div>
-</div>
+</div> -->
 
 <!-- Hero image for large screens (hide on others) -->
 <section class="w3-display-container w3-content w3-hide-small w3-hide-medium" style="max-width:1500px;">
@@ -344,30 +345,37 @@
   <div class="w3-row-padding">
     <!-- Left (top) column -->
     <div class="w3-half" style="margin:8px auto;">
-        <table class="w3-table">
-          <tr>
-            <td style="text-align:center;"><i class="fa fa-map-marker w3-xlarge"></i></td>
-            <td style="width:70%">Vichtsesteenweg 65</td>
-          </tr>
-          <tr>
-            <td></td>
-            <td>8570 Anzegem</td>
-          </tr>
-          <tr>
-            <td style="text-align:center;"><i class="fa fa-phone w3-xlarge"></i></td>
-            <td><a href="tel:+32-495-747628" style="text-decoration:none;">0495/74.76.28</a></td>
-          </tr>
-          <tr>
-            <td style="text-align:center;"><i class="fa fa-envelope w3-xlarge"></i></td>
-            <td><a href="mailto:info@balanz.be" style="text-decoration:none;">info@balanz.be</a><br></td>
-          </tr>
-        </table>
+             <table class="w3-table">
+        <tr>
+          <td style="text-align:center;"><i class="fa fa-fw fa-map-marker w3-xlarge"></i></td>
+          <td style="width:70%">Vichtsesteenweg 65</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>8570 Anzegem</td>
+        </tr>
+        <tr>
+          <td style="text-align:center;"><i class="fa fa-fw fa-phone w3-xlarge"></i></td>
+          <td><a href="tel:+32-495-747628" style="text-decoration:none;">0495/74.76.28</a></td>
+        </tr>
+        <tr>
+          <td style="text-align:center;"><i class="fa fa-fw fa-envelope w3-xlarge"></i></td>
+          <td><a href="mailto:info@balanz.be" style="text-decoration:none;">info@balanz.be</a><br></td>
+        </tr>
+      </table>
+      <!-- Request appointment button -->
+      <p class="w3-center">
+        <a class="w3-button w3-block w3-round-xxlarge w3-border w3-border-lime"
+        href="https://agenda.crossuite.com/Balanz/l/n5r4v5z5j454t2748494/" target="_blank">
+          <i class="fa fa-calendar fa-lg"></i>&nbsp; Maak een afspraak online</a>
+        </p>
     </div>
     <!-- Right (bottom) column -->
     <div class="w3-half" style="margin:8px auto;">
       <div id="googleMap" class="w3-greyscale-min" style="max-width:360px;height:360px;margin:auto;">
-        <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBwB-FmLmnS5rUFMesY_ndxOxaVsOtA_E4&callback=initMap">
-        </script>
+        <script async defer
+          src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBwB-FmLmnS5rUFMesY_ndxOxaVsOtA_E4&callback=initMap">
+          </script>
       </div>
     </div>
   </div>
