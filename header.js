@@ -25,11 +25,11 @@ document.write('
       <a class="w3-bar-item w3-button w3-border-bottom w3-border-light-grey" href="about.html"
         onclick="myNavToggle()">Over ons</a>
       <a class="w3-bar-item w3-button w3-border-bottom w3-border-light-grey" href="patient.html"
-        onclick="myNavToggle()">Kinesitherapie &amp; Revalidatie</a>
+        onclick="myNavToggle()">Kinesitherapie &amp; revalidatie</a>
       <a class="w3-bar-item w3-button w3-border-bottom w3-border-light-grey" href="sporter.html"
-        onclick="myNavToggle()">Sport &amp; Beweging</a>
+        onclick="myNavToggle()">Sport &amp; beweging</a>
       <a class="w3-bar-item w3-button w3-border-bottom w3-border-light-grey" href="lifestyle.html"
-        onclick="myNavToggle()">Lifestyle</a>
+        onclick="myNavToggle()">Gezondheid &amp; preventie</a>
       <a class="w3-bar-item w3-button w3-border-bottom w3-border-light-grey" href="tarieven.html"
         onclick="myNavToggle()">Tarieven</a>
       <a class="w3-bar-item w3-button w3-border-bottom w3-border-light-grey" href="balanz.html#references"
