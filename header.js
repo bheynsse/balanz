@@ -32,8 +32,6 @@ document.write('
         onclick="myNavToggle()">Gezondheid &amp; preventie</a>
       <a class="w3-bar-item w3-button w3-border-bottom w3-border-light-grey" href="tarieven.html"
         onclick="myNavToggle()">Tarieven</a>
-      <a class="w3-bar-item w3-button w3-border-bottom w3-border-light-grey" href="balanz.html#references"
-        onclick="myNavToggle()">Referenties</a>
       <a class="w3-bar-item w3-button w3-border-bottom w3-border-light-grey" href="balanz.html#contact"
         onclick="myNavToggle()">Contact</a>
       <a class="w3-bar-item w3-button w3-border-bottom w3-border-light-grey" 
