@@ -35,7 +35,7 @@ document.write('
       <a class="w3-bar-item w3-button w3-border-bottom w3-border-light-grey" href="balanz.html#contact"
         onclick="myNavToggle()">Contact</a>
       <a class="w3-bar-item w3-button w3-border-bottom w3-border-light-grey" 
-        href="https://altagenda.crossuite.com/Balanz/l/n5r4v5z5j454t2748494/o/54135434t253p2649494c44354q284c4a413r24474y20353v2u203x26453w2p2v2v2x2" target="_blank"
+        href="https://agenda.crossuite.com/Balanz/l/n5r4v5z5j454t2748494/o/54y2a494u253p2649494a44354q284c4a413r24474y2x253v2x2v2r25453w2v2v2r2x2" target="_blank"
         onclick="myNavToggle()"><i class="fa fa-calendar"></i> Online afspraak maken</a>
 	    <div class="w3-bar-item w3-right">
         <a class="w3-button" href="https://www.facebook.com/balanz.be/" target="_blank"
