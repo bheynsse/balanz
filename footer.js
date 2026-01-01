@@ -12,7 +12,7 @@ document.write('
 	<i class="fa fa-linkedin-square w3-xxlarge"></i></a>
 </div>
 <div class="w3-container w3-white w3-center w3-tiny w3-text-color-light-grey">
-  <p>Copyright &copy; 2025 Friends of Balanz<br>Contact us via <a href="mailto:bmlhey@gmail.com?subject=Info website Balanz">
+  <p>Copyright &copy; 2026 Friends of Balanz<br>Contact us via <a href="mailto:bmlhey@gmail.com?subject=Info website Balanz">
     <i class="fa fa-envelope"></i></a></p>
   <a href="voorwaarden.html" style="text-decoration:none" class="w3-margin-top">Algemene Voorwaarden</a>
   <p><br></p>
